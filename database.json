@@ -36,16 +36,10 @@
       "email": "rerbe9@psu.edu",
       "isStaff": true
     },
-    {   
-      "id" : 7,
+    {
+      "id": 7,
       "email": "jeremy@bakker.com",
       "fullName": "Jeremy Bakker",
-      "isStaff": true
-    },
-    {
-      "id": 8,
-      "email": "JohnJohn@bakker.com",
-      "fullName": "John Johns",
       "isStaff": true
     }
   ],
@@ -124,6 +118,13 @@
       "description": "Pariatur nihil animi eos doloremque laborum fugiat consequuntur iusto. Et tempore a enim.",
       "emergency": true,
       "dateCompleted": "Fri Apr 29 2022 21:24:29 GMT-0500 (Central Daylight Time)"
+    },
+    {
+      "userId": 2,
+      "description": "house on fire",
+      "emergency": true,
+      "dateCompleted": "",
+      "id": 6
     }
   ],
   "employeeTickets": [
